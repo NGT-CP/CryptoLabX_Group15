@@ -1,6 +1,7 @@
 #ifndef TELEMETRY_H
 #define TELEMETRY_H
 
+<<<<<<< HEAD
 // =====================================================
 // Telemetry — displays simulated drone sensor data.
 // Also demonstrates Improper Input Validation:
@@ -12,6 +13,13 @@ struct TelemetryData {
     double altitude;     // meters  (valid: 0–500)
     double speed;        // km/h    (valid: 0–100)
     int    battery;      // percent (valid: 0–100)
+=======
+
+struct TelemetryData {
+    double altitude;     
+    double speed;        
+    int    battery;      
+>>>>>>> origin/main
     double latitude;
     double longitude;
     int    satellites;
