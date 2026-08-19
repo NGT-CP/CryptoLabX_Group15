@@ -4,3 +4,11 @@
 2026-08-05 23:16:32,525 - Attack Selected
 2026-08-05 23:16:41,594 - Analyzed File : s2.txt
 2026-08-05 23:16:44,569 - Program Terminated
+2026-08-06 11:19:16,802 - Program Started
+2026-08-06 11:19:18,278 - Encrypt Selected
+2026-08-06 11:19:18,843 - Decrypt Selected
+2026-08-06 11:19:27,300 - Analyzed File : s4.txt
+2026-08-06 11:19:32,024 - Program Terminated
+2026-08-06 12:38:10,323 - Program Started
+2026-08-06 12:38:20,162 - Analyzed File : s5.txt
+2026-08-06 12:38:30,512 - Decrypt Selected
