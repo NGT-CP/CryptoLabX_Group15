@@ -1,0 +1,19 @@
+Test Case 1
+Key: 3
+Plaintext: the quick brown fox jumps over the lazy dog and the computer security system protects the important data from every attack
+
+Test Case 2
+Key: 7
+Plaintext: cryptography is used to protect information and secure communication between computers over an unsafe network
+
+Test Case 3
+Key: 11
+Plaintext: the shift cipher is a simple substitution cipher where every letter is moved by the same number of positions in the alphabet
+
+Test Case 4
+Key: 15
+Plaintext: dictionary scoring searches for meaningful English words while chi square analysis compares letter frequencies with normal English text
+
+Test Case 5
+Key: 21
+Plaintext: information security requires strong algorithms careful implementation proper testing and continuous analysis of possible attacks
