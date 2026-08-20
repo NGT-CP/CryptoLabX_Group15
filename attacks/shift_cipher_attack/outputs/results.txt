@@ -7,6 +7,8 @@ Test Case 2 | 7 | 7 | 7 | True | True
 Test Case 3 | 11 | 11 | 11 | True | True
 Test Case 4 | 15 | 15 | 15 | True | True
 Test Case 5 | 21 | 21 | 21 | True | True
+Test Case 6 | 5 | 5 | 5 | True | True
+Test Case 7 | 19 | 19 | 19 | True | True
 
 Detailed Scores
 
@@ -52,6 +54,24 @@ Dictionary Key: 21
 Chi-Square Key: 21
 Dictionary Score: 3
 Chi-Square Score: 29.90401661359666
+Dictionary Correct: True
+Chi-Square Correct: True
+
+Test Case 6
+Actual Key: 5
+Dictionary Key: 5
+Chi-Square Key: 5
+Dictionary Score: 59
+Chi-Square Score: 151.5500698072964
+Dictionary Correct: True
+Chi-Square Correct: True
+
+Test Case 7
+Actual Key: 19
+Dictionary Key: 19
+Chi-Square Key: 19
+Dictionary Score: 83
+Chi-Square Score: 183.6488216259191
 Dictionary Correct: True
 Chi-Square Correct: True
 
