@@ -1,0 +1,4 @@
+========== PATTERN ANALYSIS ==========
+Pattern 123: ABC
+Pattern 122: ABB
+Pattern 1231: ABCA

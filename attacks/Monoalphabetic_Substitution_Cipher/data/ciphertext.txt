@@ -1,0 +1,47 @@
+ml/2^t knb unoz kdizw mntulxtl m. (Lhdu udorva mnbbzurntwu ln x qbplz-knbmz
+uzxbmh nk lhz yza urxmz, xtw xuupozu tn rbzrbnmzuzuudtj hxu qzzt wntz.)
+Xuupodtj m = 1 knb udorvdmdla, x yza nk vztjlh t = 60 rbngdwzu xwzcpxlz
+uzmpbdla xjxdtul xt xwgzbuxba pudtj x wzuylnr mnorplzb. Dtwzzw, nt x 4 JHs
+rbnmzuunb (lhxl zizmplzu 4 × 10^9 mamvzu rzb uzmntw) 2^60 MRP mamvzu bzcpdbz
+2^60/(4 × 10^9) uzmntwu, nb xqnpl 9 azxbu. Hnezgzb, lhz kxulzul uprzbmnorplzb
+xl lhz ldoz nk lhdu ebdldtj mxt zizmplz bnpjhva 2 × 10^16 kvnxldtj rndtl
+nrzbxldntu rzb uzmntw, xtw 2^60 upmh nrzbxldntu bzcpdbz ntva xqnpl 1 odtplz
+nt upmh x oxmhdtz. Lxydtj t = 80 enpvw qz x onbz rbpwztl mhndmz; zgzt lhz
+mnorplzb fpul oztldntzw enpvw lxyz xqnpl 2 azxbu ln mxbba npl 2^80 nrzbxldntu.
+(Lhz xqngz tpoqzbu xbz knb dvvpulbxldgz rpbrnuzu ntva; dt rbxmldmz m > 1, xtw
+uzgzbxv nlhzb kxmlnbu—upmh xu lhz ldoz bzcpdbzw knb ozonba xmmzuu xtw lhz
+rnuudqdvdla nk rxbxvvzv mnorplxldnt nt x tzlenby nk mnorplzbu—udjtdkdmxtlva
+xkkzml lhz rzbknboxtmz nk qbplz-knbmz xllxmyu.)
+
+Lnwxa, hnezgzb, x bzmnooztwzw yza vztjlh odjhl qz t = 128. Lhz wdkkzbztmz
+qzlezzt 2^80 xtw 2^128 du x opvldrvdmxldgz kxmlnb nk 2^48. Ln jzl x kzzvdtj
+knb hne qdj lhdu du, tnlz lhxl xmmnbwdtj ln rhaudmdulu’ zuldoxlzu lhz tpoqzb nk
+uzmntwu udtmz lhz Qdj Qxtj du nt lhz nbwzb nk 2^58.
+
+Dk lhz rbnqxqdvdla lhxl xt xllxmyzb mxt upmmzuukpvva bzmngzb xt ztmbarlzw
+ozuuxjz dt ntz azxb du xl onul 2^−60, lhzt dl du opmh onbz vdyzva lhxl lhz
+uztwzb xtw bzmzdgzb edvv qnlh qz hdl qa vdjhltdtj dt lhxl uxoz rzbdnw nk ldoz.
+Xt zgztl lhxl nmmpbu ntmz zgzba hptwbzw azxbu mxt qz bnpjhva zuldoxlzw ln
+nmmpb edlh rbnqxqdvdla 2^−30 dt xta jdgzt uzmntw. Unozlhdtj lhxl nmmpbu edlh
+rbnqxqdvdla 2^−60 dt xta jdgzt uzmntw du 2^30 ldozu vzuu vdyzva, xtw odjhl qz
+zirzmlzw ln nmmpb bnpjhva ntmz zgzba 100 qdvvdnt azxbu.
+
+Lhz mntmbzlz xrrbnxmh du dornblxtl dt rbxmldmz, udtmz mntmbzlz jpxbxtlzzu
+xbz ehxl puzbu nk x mbarlnjbxrhdm umhzoz xbz pvldoxlzva dtlzbzulzw dt. Hne-
+zgzb, rbzmduz mntmbzlz jpxbxtlzzu xbz wdkkdmpvl ln rbngdwz. Kpblhzbonbz, ntz
+opul qz mxbzkpv dt dtlzbrbzldtj mntmbzlz uzmpbdla mvxdou. Knb zixorvz, x mvxdo
+lhxl tn xwgzbuxba bpttdtj knb 5 azxbu mxt qbzxy x jdgzt umhzoz edlh rbnqx-
+qdvdla qzllzb lhxt ε qzju lhz cpzuldntu: ehxl larz nk mnorpldtj rnezb (z.j.,
+wzuylnr RM, uprzbmnorplzb, tzlenby nk hptwbzwu nk mnorplzbu) wnzu lhdu
+xuupoz? Wnzu lhdu lxyz dtln xmmnptl kplpbz xwgxtmzu dt mnorpldtj rnezb
+(ehdmh, qa Onnbz’u Vxe, bnpjhva wnpqvzu zgzba 18 ontlhu)? Wnzu lhz zu-
+ldoxlz xuupoz lhz puz nk “nkk-lhz-uhzvk” xvjnbdlhou, nb wzwdmxlzw unklexbz
+dorvzoztlxldntu nrldodszw knb lhz xllxmy? Kpblhzbonbz, upmh x jpxbxtlzz uxau
+vdllvz xqnpl lhz upmmzuu rbnqxqdvdla nk xt xwgzbuxba bpttdtj knb 2 azxbu (nlhzb
+lhxt lhz kxml lhxl dl mxt qz xl onul ε) xtw uxau tnlhdtj xqnpl lhz upmmzuu
+rbnqxqdvdla nk xt xwgzbuxba bpttdtj knb 10 azxbu.
+
+3.1.2 Lhz Xuaorlnldm Xrrbnxmh
+
+Xu rxblva tnlzw xqngz, lhzbz xbz unoz lzmhtdmxv xtw lhznbzldmxv wdkkdmpvldzu
+dt pudtj lhz mntmbzlz-uzmpbdla xrrbnxmh. Lhzuz duupzu opul qz wzxvl edlh dt

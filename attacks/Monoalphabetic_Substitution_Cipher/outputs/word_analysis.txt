@@ -1,0 +1,5 @@
+========== WORD FREQUENCY ANALYSIS ==========
+One-letter words: X
+Two-letter words: AB, XY
+Three-letter words: QRM, XYZ
+Repeated words: QRM -> 3 times

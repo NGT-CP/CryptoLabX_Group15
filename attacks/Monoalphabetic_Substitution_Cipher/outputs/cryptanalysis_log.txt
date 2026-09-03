@@ -1,0 +1,15 @@
+========== CRYPTANALYSIS LOG ==========
+
+Step 1
+Observation: Q is the most frequent ciphertext letter.
+Possible substitution: Q -> E
+Tested substitution: Q -> E
+Result: Partial plaintext improved.
+Decision: ACCEPTED
+
+Step 2
+Observation: X is a one-letter word.
+Possible substitution: X -> A / I
+Tested substitution: X -> A
+Result: Contradiction found.
+Decision: REJECTED
