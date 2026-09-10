@@ -1,5 +1,140 @@
 ========== WORD FREQUENCY ANALYSIS ==========
-One-letter words: X
-Two-letter words: AB, XY
-Three-letter words: QRM, XYZ
-Repeated words: QRM -> 3 times
+
+Total words: 471
+
+
+One-letter words:
+X -> 14
+T -> 4
+M -> 3
+U -> 1
+Z -> 1
+J -> 1
+
+Two-letter words:
+NK -> 17
+DT -> 11
+QZ -> 8
+DU -> 7
+LN -> 7
+XT -> 6
+NT -> 4
+XL -> 3
+XU -> 2
+NB -> 2
+QA -> 2
+TN -> 2
+DL -> 2
+ZU -> 1
+DK -> 1
+RM -> 1
+ML -> 1
+
+Three-letter words:
+LHZ -> 25
+KNB -> 10
+XTW -> 9
+MXT -> 5
+XBZ -> 5
+YZA -> 3
+NTZ -> 2
+XTA -> 2
+RZB -> 2
+QDJ -> 2
+HNE -> 2
+VXE -> 1
+HXU -> 1
+HDL -> 1
+PUZ -> 1
+MRP -> 1
+NKK -> 1
+NPL -> 1
+JZL -> 1
+JHS -> 1
+
+Repeated words:
+LHZ -> 25
+NK -> 17
+X -> 14
+DT -> 11
+KNB -> 10
+LHXL -> 9
+XTW -> 9
+QZ -> 8
+AZXBU -> 7
+DU -> 7
+LN -> 7
+XT -> 6
+XQNPL -> 5
+MXT -> 5
+XBZ -> 5
+MNTMBZLZ -> 5
+RBNQXQDVDLA -> 5
+LHDU -> 5
+UPMH -> 4
+UZMNTW -> 4
+T -> 4
+EDLH -> 4
+BNPJHVA -> 4
+NT -> 4
+XWGZBUXBA -> 4
+LDOZ -> 3
+M -> 3
+JDGZT -> 3
+NRZBXLDNTU -> 3
+WNZU -> 3
+BPTTDTJ -> 3
+ZGZBA -> 3
+YZA -> 3
+XL -> 3
+XRRBNXMH -> 3
+UZMPBDLA -> 3
+NMMPB -> 2
+NTZ -> 2
+NTVA -> 2
+NTMZ -> 2
+WZUYLNR -> 2
+XQNGZ -> 2
+XTA -> 2
+NMMPBU -> 2
+ODJHL -> 2
+NLHZB -> 2
+XU -> 2
+XUUPOZ -> 2
+NB -> 2
+MNORPLZBU -> 2
+MNORPLZB -> 2
+MNORPLDTJ -> 2
+RNEZB -> 2
+UPMMZUU -> 2
+UXAU -> 2
+UNOZ -> 2
+UMHZOZ -> 2
+UDTMZ -> 2
+TZLENBY -> 2
+QA -> 2
+TN -> 2
+UZMNTWU -> 2
+RZB -> 2
+UPRZBMNORPLZB -> 2
+RBXMLDMZ -> 2
+VDYZVA -> 2
+VZTJLH -> 2
+QDJ -> 2
+QBPLZ -> 2
+PUDTJ -> 2
+OPUL -> 2
+ONUL -> 2
+ONBZ -> 2
+KNBMZ -> 2
+HNE -> 2
+HNEZGZB -> 2
+LXYZ -> 2
+BZCPDBZ -> 2
+JPXBXTLZZU -> 2
+KPBLHZBONBZ -> 2
+DL -> 2
+ENPVW -> 2
+MAMVZU -> 2
+LHXT -> 2
+EHXL -> 2
