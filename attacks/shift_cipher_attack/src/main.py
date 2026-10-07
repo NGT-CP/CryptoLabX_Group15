@@ -5,14 +5,13 @@ from shift_cipher import encrypt
 
 dictionary = set()
 
-with open("shift_cipher_attack/dictionary/english_words.txt", "r") as file:
+with open("../dictionary/english_words.txt", "r") as file:
     for word in file:
         dictionary.add(word.strip().lower())
 
 
 def load_test_cases():
-    test_file = "shift_cipher_attack/testcases/testcases.txt"
-
+    test_file = "../testcases/testcases.txt"
     test_cases = []
 
     with open(test_file, "r") as file:
@@ -39,6 +38,7 @@ def load_test_cases():
             )
 
             i += 3
+
         else:
             i += 1
 
@@ -46,22 +46,17 @@ def load_test_cases():
 
 
 def run_test_cases(choice):
-
     test_cases = load_test_cases()
-
-    output_file = "shift_cipher_attack/outputs/results.txt"
-
+    output_file = "../outputs/results.txt"
     results = []
 
     for test_case, plaintext, actual_key, ciphertext in test_cases:
-
         print(f"\n{'=' * 80}")
         print(test_case)
         print(f"Actual Key: {actual_key}")
         print(f"Ciphertext: {ciphertext}")
 
         if choice == "1":
-
             print("\n--- Brute Force ---")
 
             brute_results = brute_force(ciphertext)
@@ -70,7 +65,6 @@ def run_test_cases(choice):
                 print(f"Key {key}: {decrypted_text}")
 
         elif choice == "2":
-
             dictionary_key, dictionary_plaintext, dictionary_score = (
                 dictionary_scoring(ciphertext, dictionary)
             )
@@ -93,7 +87,6 @@ def run_test_cases(choice):
             )
 
         elif choice == "3":
-
             chi_key, chi_plaintext, chi_score = (
                 chi_square_attack(ciphertext)
             )
@@ -116,7 +109,6 @@ def run_test_cases(choice):
             )
 
         elif choice == "4":
-
             dictionary_key, dictionary_plaintext, dictionary_score = (
                 dictionary_scoring(ciphertext, dictionary)
             )
@@ -157,11 +149,9 @@ def run_test_cases(choice):
         return
 
     with open(output_file, "w") as file:
-
         file.write("SHIFT CIPHER CRYPTANALYSIS RESULTS\n\n")
 
         if choice == "2":
-
             file.write(
                 "Test Case | Actual Key | Dictionary Key | "
                 "Dictionary Correct\n"
@@ -170,7 +160,6 @@ def run_test_cases(choice):
             file.write("-" * 70 + "\n")
 
             for result in results:
-
                 test_case, actual_key, dictionary_key, correct = result
 
                 file.write(
@@ -181,7 +170,6 @@ def run_test_cases(choice):
                 )
 
         elif choice == "3":
-
             file.write(
                 "Test Case | Actual Key | Chi-Square Key | "
                 "Chi-Square Correct\n"
@@ -190,7 +178,6 @@ def run_test_cases(choice):
             file.write("-" * 70 + "\n")
 
             for result in results:
-
                 test_case, actual_key, chi_key, correct = result
 
                 file.write(
@@ -201,7 +188,6 @@ def run_test_cases(choice):
                 )
 
         elif choice == "4":
-
             file.write(
                 "Test Case | Actual Key | Dictionary Key | "
                 "Chi-Square Key | Dictionary Correct | "
@@ -211,7 +197,6 @@ def run_test_cases(choice):
             file.write("-" * 100 + "\n")
 
             for result in results:
-
                 (
                     test_case,
                     actual_key,
@@ -235,7 +220,6 @@ def run_test_cases(choice):
             file.write("\nDetailed Scores\n\n")
 
             for result in results:
-
                 (
                     test_case,
                     actual_key,

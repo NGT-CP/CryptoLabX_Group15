@@ -1,0 +1,5 @@
+========== CRYPTANALYSIS TABLE ==========
+
+Step  Observation / Mapping                   Substitution Tested      Result                             Decision
+--------------------------------------------------------------------------------------------------------------------------------------------
+1     Z->A                                    Z -> A                   Text did not support hypothesis.   Rejected

@@ -1,77 +1,11 @@
 SHIFT CIPHER CRYPTANALYSIS RESULTS
 
-Test Case | Actual Key | Dictionary Key | Chi-Square Key | Dictionary Correct | Chi-Square Correct
-----------------------------------------------------------------------------------------------------
-Test Case 1 | 3 | 3 | 3 | True | True
-Test Case 2 | 7 | 7 | 7 | True | True
-Test Case 3 | 11 | 11 | 11 | True | True
-Test Case 4 | 15 | 15 | 15 | True | True
-Test Case 5 | 21 | 21 | 21 | True | True
-Test Case 6 | 5 | 5 | 5 | True | True
-Test Case 7 | 19 | 19 | 19 | True | True
-
-Detailed Scores
-
-Test Case 1
-Actual Key: 3
-Dictionary Key: 3
-Chi-Square Key: 3
-Dictionary Score: 10
-Chi-Square Score: 54.67397172478107
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 2
-Actual Key: 7
-Dictionary Key: 7
-Chi-Square Key: 7
-Dictionary Score: 3
-Chi-Square Score: 24.447596967880507
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 3
-Actual Key: 11
-Dictionary Key: 11
-Chi-Square Key: 11
-Dictionary Score: 13
-Chi-Square Score: 26.8015126121036
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 4
-Actual Key: 15
-Dictionary Key: 15
-Chi-Square Key: 15
-Dictionary Score: 3
-Chi-Square Score: 52.485807897414745
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 5
-Actual Key: 21
-Dictionary Key: 21
-Chi-Square Key: 21
-Dictionary Score: 3
-Chi-Square Score: 29.90401661359666
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 6
-Actual Key: 5
-Dictionary Key: 5
-Chi-Square Key: 5
-Dictionary Score: 59
-Chi-Square Score: 151.5500698072964
-Dictionary Correct: True
-Chi-Square Correct: True
-
-Test Case 7
-Actual Key: 19
-Dictionary Key: 19
-Chi-Square Key: 19
-Dictionary Score: 83
-Chi-Square Score: 183.6488216259191
-Dictionary Correct: True
-Chi-Square Correct: True
-
+Test Case | Actual Key | Chi-Square Key | Chi-Square Correct
+----------------------------------------------------------------------
+Test Case 1 | 3 | 3 | True
+Test Case 2 | 7 | 7 | True
+Test Case 3 | 11 | 11 | True
+Test Case 4 | 15 | 15 | True
+Test Case 5 | 21 | 21 | True
+Test Case 6 | 5 | 5 | True
+Test Case 7 | 19 | 19 | True
